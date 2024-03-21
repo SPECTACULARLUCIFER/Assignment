@@ -1,0 +1,27 @@
+.index-h4{
+    color: black;
+    background-color: aqua;
+}
+#index-h5{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 30px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+.index-p{
+    line-height: 30px;
+    font-size: 20px;
+}    
+}
+div h5{
+    color: black;
+    background-color:green;
+}
+div p{
+    background-color: brown;
+}
