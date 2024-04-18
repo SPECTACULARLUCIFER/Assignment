@@ -1,0 +1,26 @@
+body {
+    background-color: azure;
+    margin-top: 3%;
+}
+
+table {
+    width:50%;
+    border: 1px solid black;
+    color: black;
+    border-collapse: collapse;
+}
+
+tr th {
+    text-align: left;
+    background-color: azure;
+}
+
+tr:nth-child(odd) {
+    background-color: blue;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: red;
+    text-align: center;
+}
